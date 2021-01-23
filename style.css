@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 1080px;
+	margin:0 auto; 
+}
+.header{
+background: #eeeeee;
+}
+.header-body{
+	padding: 50px 0;
+}
+.header-body p{
+	font-size: 18px;
+}
+.header-body img{
+	height: 150px;
+    width: 150px;
+}
+.footer{
+	padding: 50px 0;
+}
+.col-sm h3{
+	font-weight: 600;
+}
+.col-sm p{
+	font-size: 15px;
+}
